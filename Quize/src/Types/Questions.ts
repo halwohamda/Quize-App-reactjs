@@ -1,5 +1,5 @@
-// export type answerT ={
-//     questionId:number;
+export type answerT ={
+    questionId:number;
     answerId:number;
     isCorrect:boolean;
 
