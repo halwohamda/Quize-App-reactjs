@@ -3,7 +3,7 @@
     answerId:number;
     isCorrect:boolean;
 
-// }
+}
 type correctOptionT = {
     id:number;
 
