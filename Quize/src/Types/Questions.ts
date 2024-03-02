@@ -10,8 +10,8 @@
 // }
 
 
-// export type optionT = {
-//     title:string;
+export type optionT = {
+    title:string;
     id:number;
     questionId:number;
 
