@@ -1,11 +1,9 @@
 interface LayoutProps{
-    childre:React.ReactNode;
+    children:React.ReactNode;
 }
 
-const Layout = () => {
-  return (
-    <div >Layout</div>
-  )
+const Layout = ({children}:LayoutProps) => {
+  return <div></div>
 }
 
 export default Layout
