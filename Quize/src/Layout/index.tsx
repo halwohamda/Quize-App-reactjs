@@ -1,9 +1,9 @@
-interface LayoutProps{
-    children:React.ReactNode;
+import React from 'react'
+
+const index = () => {
+  return (
+    <div>index</div>
+  )
 }
 
-const Layout()=>{
-    return <div></div>
-}
-
-export default Layout
+export default index
