@@ -21,5 +21,5 @@ export type questionT ={
     id:number;
     title:string;
     options:optionT[];
-    correctOption:correctOptionT[];
+    correctOption:correctOptionT;
 }
