@@ -1,7 +1,7 @@
 // export type answerT ={
 //     questionId:number;
-//     answerId:number;
-//     isCorrect:boolean;
+    answerId:number;
+    isCorrect:boolean;
 
 // }
 type correctOptionT = {
