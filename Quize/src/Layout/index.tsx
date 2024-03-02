@@ -3,9 +3,9 @@ interface LayoutProps{
 }
 
 const Layout = ({children}:LayoutProps) => {
-  return(
-    <div className=""></div>
-  )
+  return
+    <div className=""></div>;
+  
 
 }
 
