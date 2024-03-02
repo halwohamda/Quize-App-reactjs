@@ -19,7 +19,7 @@
 // }
 export type questionT ={
     id:number;
-//     title:string;
+    title:string;
     options:optionT[];
     correctOption:correctOptionT[];
 }
