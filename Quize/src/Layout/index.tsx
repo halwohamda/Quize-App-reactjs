@@ -4,7 +4,7 @@ interface LayoutProps{
 
 const Layout = ({children}:LayoutProps) => {
   return(
-    <div cl></div>
+    <div className=""></div>
   )
 
 }
