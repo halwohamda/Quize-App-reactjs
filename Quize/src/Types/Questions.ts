@@ -12,11 +12,11 @@
 
 // export type optionT = {
 //     title:string;
-//     id:number;
-//     questionId:number;
+    id:number;
+    questionId:number;
 
 
-// }
+}
 export type questionT ={
     id:number;
     title:string;
