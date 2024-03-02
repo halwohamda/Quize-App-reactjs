@@ -4,10 +4,10 @@
 //     isCorrect:boolean;
 
 // }
-// type correctOptionT = {
-//     id:number;
+type correctOptionT = {
+    id:number;
 
-// }
+}
 
 
 export type optionT = {
