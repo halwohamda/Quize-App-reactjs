@@ -17,8 +17,8 @@
 
 
 // }
-// export type questionT ={
-//     id:number;
+export type questionT ={
+    id:number;
 //     title:string;
     options:optionT[];
     correctOption:correctOptionT[];
