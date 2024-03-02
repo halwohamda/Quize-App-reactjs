@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-// import { answer } from './Types/Questions';
+import { answer } from './Types/Questions';
 
 const App = () => {
   const [done,setDone] = useState(false);
